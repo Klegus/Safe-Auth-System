@@ -1,4 +1,4 @@
-# Safe-Auth-System
+# Safe-Auth-System connected with MySQL DB
 One of the best auth system for .NET Framework Form App with HWID Lock and AES
 
  Features:
